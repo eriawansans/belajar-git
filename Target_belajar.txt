@@ -6,3 +6,4 @@ kamis : GNS3
 jumat : Triger DB
 sabtu : Liyuz Tugas kelompok UI
 minggu : Liyus Tugas kelompok Basis Data Lanjut
+ini file nya branch

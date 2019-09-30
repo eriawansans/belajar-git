@@ -1,8 +1,9 @@
 senin : GIT
+senin : Desain Antarmuka (Wireframe)
 selasa : SIM (Sistem Informasi Manajemen)
 
 kamis : GNS3
 jumat : Triger DB
-sabtu : Liyuz tugas kelompok UI
-minggu : Liyuz tugas kelompok Basis Data
-INI DI MASTER
+sabtu : Liyuz Tugas kelompok UI
+minggu : Liyus Tugas kelompok Basis Data Lanjut
+ini file nya branch

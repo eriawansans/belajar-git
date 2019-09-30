@@ -5,3 +5,4 @@ kamis : GNS3
 jumat : Triger DB
 sabtu : Liyuz tugas kelompok UI
 minggu : Liyuz tugas kelompok Basis Data
+INI DI MASTER
